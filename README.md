@@ -12,6 +12,8 @@ Both Scratch and Hopscotch do programing by dragging and dropping code blocks (l
 
 Khan Academy <https://www.khanacademy.org/computing/computer-programming> also looks like it has a more advanced set of stuff — but also oriented at drawing, animation, visualization, simulations, and gams.
 
+Minecraft could also stimulate some interesting work in programming. At least one group has an organized set of lessons regarding mods for Minecraft (on Desktop/Laptop not on iOS/Android). http://www.learntomod.com/ We have also worked a little with sysadmin and the command line in setting up our own Minecraft Pocket Edition (iOS/Android) server for Linux ( http://www.pocketmine.net/ ). Our daughter liked the idea that she could set the whole world to daytime with a single command. She added usernames for friends to the whitelist.
+
 It looks like there is at least one Maker space in Santiago — it has a 3d printer — http://www.stgomakerspace.com/ . 
 
 # Music
