@@ -16,6 +16,8 @@ Minecraft could also stimulate some interesting work in programming. At least on
 
 It looks like there is at least one Maker space in Santiago — it has a 3d printer — http://www.stgomakerspace.com/ . 
 
+[Kano](http://us.kano.me/) is an operating system designed to enable kids to discover programing through play. You don't have to buy the Kano hardware. We bought our own Raspberry Pi 2 and then installed Kano <https://help.kano.me/hc/en-us/articles/201602232> 
+
 # Music
 
 For learning Guitar, we like https://guitarbots.com/ . We are using the free version so far (it limits the lessons to like 10 minutes, which is just about perfect for her because chords can be frustrating for little hands).
@@ -28,26 +30,25 @@ Here are some of the programs at Illinois: http://gems.ncsa.illinois.edu/  and h
 
 # Math
 
-For math: My favorite math books are these ones https://www.beastacademy.com/   They are not easy — but pose fulfilling and interesting challenges.
+ - Workbooks: My favorite math books are these ones https://www.beastacademy.com/   They are not easy — but pose fulfilling and interesting challenges.
 
-Our favorite math ipad apps are by this group: http://www.dragonboxapp.com/ Even our kindergartener is able to play them. 
+ - Apps: Our favorite math ipad apps are by this group: http://www.dragonboxapp.com/ Even our kindergartener is able to play them. 
 
 # Video
 
-The new electric company
-Sesame street.
-
-Wild Kratts
+- The new electric company
+- Sesame street.
+- Wild Kratts
 
 ## Older Kids
-Avatar the last Airbender
-Korra
+- Avatar the last Airbender
+- Korra
 
 
 # Books
 
-Wee Free Men -- Terry Pratchett
-Princess Cimorene
+- Wee Free Men and the Tiffany Aching Series by Terry Pratchett
+- The Princess Cimorene series (technically the Enchanted Forest Chronicles) by Patricia Wrede
 
 
 
