@@ -31,3 +31,23 @@ Here are some of the programs at Illinois: http://gems.ncsa.illinois.edu/  and h
 For math: My favorite math books are these ones https://www.beastacademy.com/   They are not easy — but pose fulfilling and interesting challenges.
 
 Our favorite math ipad apps are by this group: http://www.dragonboxapp.com/ Even our kindergartener is able to play them. 
+
+# Video
+
+The new electric company
+Sesame street.
+
+Wild Kratts
+
+## Older Kids
+Avatar the last Airbender
+Korra
+
+
+# Books
+
+Wee Free Men -- Terry Pratchett
+Princess Cimorene
+
+
+
