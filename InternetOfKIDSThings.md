@@ -3,7 +3,7 @@ title: Thoughts on the Internet of KIDS Things
 author: Jake Bowers and Cara Wong
 ---
 
-This is a memo that we wrote after spending a great morning with Bruce Sterling and Jasmina Tesanovic at [Casa Jasmina](http://casajasmina.arduino.cc/). Jasmina taught us about the [Internet of Women Things](http://boingboing.net/2015/12/16/ada-lovelace-what-would-go-in.html). And we built open-source furniture with Bruce. And, we left that visit mulling over the question about the Internet of Kids Things. We are putting it on github in public form to encourage commentary and collaboration.
+This is a memo that we wrote after spending a great morning with [Bruce Sterling](https://en.wikipedia.org/wiki/Bruce_Sterling) and [Jasmina Tesanovic](https://en.wikipedia.org/wiki/Jasmina_Te%C5%A1anovi%C4%87) at [Casa Jasmina](http://casajasmina.arduino.cc/). Jasmina taught us about the [Internet of Women Things](http://boingboing.net/2015/12/16/ada-lovelace-what-would-go-in.html). And we built open-source furniture with Bruce. And, we left that visit mulling over the question about the Internet of Kids Things. We are putting it on github in public form to encourage commentary and collaboration.
 
 # Open source kids furniture
 
